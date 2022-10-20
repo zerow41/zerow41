@@ -13,7 +13,7 @@
 </br></br>
 <div algin=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerow41&show_icons=true&hide=stars&card_width=400px)](https://github.com/zerow41/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerow41&show_icons=true&hide=stars&card_width=400px)](https://github.com/zerow41/github-readme-stats)&emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerow41&layout=compact)](https://github.com/zerow41/github-readme-stats)
 
 </div>

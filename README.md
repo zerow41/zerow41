@@ -12,10 +12,6 @@
 
 </br></br>
 <div algin=center>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerow41&show_icons=true&hide=stars&card_width=420px)](https://github.com/zerow41/github-readme-stats)&emsp;&emsp;&emsp;&emsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerow41&layout=compact)](https://github.com/zerow41/github-readme-stats)
-
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=100&section=footer)
